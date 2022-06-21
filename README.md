@@ -2,4 +2,4 @@
 
   <hr>
   <b>Who?</b> <p>An undergraduate student interested on website development and software deploy</p>
- <li>I'm currently learning <b> Python </b>whilst I have been using HTML, CSS and little JS to build small-size websites</li>
+ <li>I'm currently learning <b> Python </b>whilst I have been using HTML, CSS and little JS to build small-size websites, such as <a href="dotome.ga">dotOmega</a></li>
